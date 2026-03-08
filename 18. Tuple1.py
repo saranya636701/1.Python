@@ -1,0 +1,5 @@
+#((0, 1, 2, 3), ('python', 'HOPE'))
+tuple1 = (0,1,2,3)
+tuple2 = ('python', 'HOPE')
+tuple3 = (tuple1, tuple2)
+print(tuple3)
